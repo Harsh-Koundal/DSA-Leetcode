@@ -30,6 +30,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,12 +41,14 @@
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |

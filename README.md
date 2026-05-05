@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |

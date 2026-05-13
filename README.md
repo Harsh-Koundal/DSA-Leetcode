@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
@@ -135,4 +136,12 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

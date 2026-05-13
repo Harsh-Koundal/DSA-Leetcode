@@ -38,6 +38,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## String
 |  |
 | ------- |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |

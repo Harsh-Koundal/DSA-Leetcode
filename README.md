@@ -43,6 +43,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Hash Table
 |  |
@@ -166,4 +167,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0796-rotate-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->

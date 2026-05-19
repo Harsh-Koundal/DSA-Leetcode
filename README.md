@@ -47,6 +47,7 @@
 | [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -64,6 +64,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -82,6 +83,7 @@
 | [0709-to-lower-case](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0796-rotate-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |

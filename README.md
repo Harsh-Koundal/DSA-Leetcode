@@ -13,6 +13,7 @@
 | [0029-divide-two-integers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -38,6 +39,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -208,4 +210,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0039-combination-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

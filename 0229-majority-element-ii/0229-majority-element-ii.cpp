@@ -3,7 +3,7 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         unordered_map<int,int> mp;
         vector<int> majorityEle;
-        int second = 0;
+        
         for(int num : nums)
         mp[num]++;
 

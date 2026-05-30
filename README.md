@@ -35,6 +35,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -133,6 +134,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Memoization

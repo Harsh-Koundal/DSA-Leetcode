@@ -3,7 +3,6 @@ public:
     int totalWaviness(int num1, int num2) {
         int count = 0;
         string n1 = "";
-        string n2 = "";
 
         for(int num=num1;num<=num2;num++){
 

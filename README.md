@@ -68,6 +68,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3819-rotate-non-negative-elements) |
@@ -211,6 +212,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |

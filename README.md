@@ -198,6 +198,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -288,4 +289,8 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

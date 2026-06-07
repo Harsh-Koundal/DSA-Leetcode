@@ -105,6 +105,7 @@
 | [0014-longest-common-prefix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0344-reverse-string) |

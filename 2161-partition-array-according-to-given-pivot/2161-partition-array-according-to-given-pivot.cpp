@@ -18,7 +18,6 @@ public:
              ans.push_back(num);
         }
 
-
         return ans;
     }
 };

@@ -51,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +178,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
@@ -310,4 +313,12 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

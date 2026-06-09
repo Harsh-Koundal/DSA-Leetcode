@@ -78,6 +78,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
 |  |
@@ -300,6 +301,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Interactive
 |  |
 | ------- |

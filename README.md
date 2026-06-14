@@ -126,6 +126,7 @@
 | [0344-reverse-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -347,4 +350,8 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1114-print-in-order) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

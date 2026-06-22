@@ -48,6 +48,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0164-maximum-gap) |
@@ -100,6 +101,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

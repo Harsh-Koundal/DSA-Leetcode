@@ -6,10 +6,8 @@ public:
 
         int longest = 0;
 
-        // Iterate over set instead of nums
         for (int num : st) {
 
-            // Start of sequence
             if (st.find(num - 1) == st.end()) {
 
                 int currentNum = num;

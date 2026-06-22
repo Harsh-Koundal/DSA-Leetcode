@@ -101,6 +101,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
@@ -130,6 +131,7 @@
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0065-valid-number) |
+| [0205-isomorphic-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |

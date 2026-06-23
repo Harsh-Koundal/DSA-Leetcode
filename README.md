@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |

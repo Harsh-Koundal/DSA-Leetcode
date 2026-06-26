@@ -10,6 +10,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -398,4 +399,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

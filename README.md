@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -114,6 +115,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -183,6 +185,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |

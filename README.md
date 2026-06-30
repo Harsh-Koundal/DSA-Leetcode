@@ -132,6 +132,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
@@ -165,6 +166,7 @@
 | [0796-rotate-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -293,6 +295,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |

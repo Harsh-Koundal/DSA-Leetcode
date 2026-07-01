@@ -94,6 +94,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1920-build-array-from-permutation](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
+| [1920-build-array-from-permutation](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |

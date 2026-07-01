@@ -31,6 +31,7 @@
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -89,6 +90,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -139,6 +141,7 @@
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
@@ -265,6 +268,7 @@
 | [0383-ransom-note](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |

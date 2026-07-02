@@ -84,6 +84,7 @@
 | [0704-binary-search](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
+| [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
@@ -205,6 +206,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -237,6 +239,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -393,6 +396,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0409-longest-palindrome) |
+| [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |

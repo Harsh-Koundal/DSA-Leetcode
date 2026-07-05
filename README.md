@@ -18,6 +18,7 @@
 | [0328-odd-even-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

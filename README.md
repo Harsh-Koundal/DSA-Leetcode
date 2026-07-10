@@ -202,6 +202,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 ## Two Pointers
@@ -459,6 +460,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0707-design-linked-list) |
 ## Graph Theory
 |  |

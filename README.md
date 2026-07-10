@@ -203,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 ## Two Pointers
@@ -439,6 +440,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -461,6 +463,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0707-design-linked-list) |
 ## Graph Theory
 |  |

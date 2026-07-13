@@ -34,6 +34,7 @@
 | [0371-sum-of-two-integers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -359,6 +360,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
@@ -480,4 +482,12 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

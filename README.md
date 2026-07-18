@@ -18,6 +18,7 @@
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -34,6 +35,7 @@
 | [0371-sum-of-two-integers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -223,6 +225,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers

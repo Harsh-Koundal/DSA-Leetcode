@@ -203,6 +203,7 @@
 | [0796-rotate-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -227,6 +228,7 @@
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
@@ -459,6 +461,7 @@
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -496,6 +499,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |

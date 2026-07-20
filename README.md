@@ -104,6 +104,7 @@
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
 | [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Queue

@@ -187,6 +187,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -227,6 +228,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3174-clear-digits) |
@@ -316,6 +318,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -348,6 +351,7 @@
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
@@ -506,6 +510,7 @@
 | [2126-destroying-asteroids](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |

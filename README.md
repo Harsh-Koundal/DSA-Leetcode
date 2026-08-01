@@ -127,6 +127,7 @@
 | [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -256,6 +257,7 @@
 | [0496-next-greater-element-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
@@ -407,6 +409,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -536,6 +539,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |

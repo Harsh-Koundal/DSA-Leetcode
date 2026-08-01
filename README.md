@@ -36,6 +36,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -66,6 +67,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -424,6 +427,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -569,6 +573,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |

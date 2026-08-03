@@ -149,6 +149,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -195,6 +196,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -327,6 +329,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |

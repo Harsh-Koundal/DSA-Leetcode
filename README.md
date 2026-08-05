@@ -471,11 +471,13 @@
 | ------- |
 | [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -582,6 +584,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Brainteaser
 |  |
 | ------- |

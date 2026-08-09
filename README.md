@@ -41,6 +41,7 @@
 | [0877-stone-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1406-stone-game-iii) |
@@ -120,6 +121,7 @@
 | [0877-stone-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0912-sort-an-array) |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -449,6 +451,7 @@
 | [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -462,6 +465,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -607,6 +611,7 @@
 | [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
@@ -621,4 +626,12 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

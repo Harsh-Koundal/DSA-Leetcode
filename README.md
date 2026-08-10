@@ -45,6 +45,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -453,6 +454,7 @@
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -613,6 +615,7 @@
 | [1025-divisor-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -630,8 +633,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

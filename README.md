@@ -140,6 +140,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -595,6 +596,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |

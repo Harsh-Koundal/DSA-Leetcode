@@ -251,6 +251,7 @@
 | [0409-longest-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0748-shortest-completing-word) |
@@ -313,6 +314,7 @@
 | [0344-reverse-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |

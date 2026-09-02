@@ -241,6 +241,7 @@
 | [0014-longest-common-prefix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
@@ -308,6 +309,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -514,6 +516,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Depth-First Search
@@ -695,4 +698,16 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

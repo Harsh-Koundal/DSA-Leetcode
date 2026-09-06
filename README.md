@@ -248,6 +248,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0065-valid-number) |
+| [0115-distinct-subsequences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -489,6 +490,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |

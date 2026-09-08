@@ -3,9 +3,7 @@ public:
     int countCommas(int n) {
         int count = 0;
 
-        string s = to_string(n);
-
-        if(s.length() < 3)
+        if(n < 1000)
          return count;
 
         while(n>=1000){

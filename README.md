@@ -82,6 +82,7 @@
 | [0206-reverse-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -237,6 +239,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -556,6 +559,7 @@
 | [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |

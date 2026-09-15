@@ -161,6 +161,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1901-find-a-peak-element-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -456,6 +457,7 @@
 | [0704-binary-search](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -639,6 +641,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Queue
 |  |
 | ------- |

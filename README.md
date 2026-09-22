@@ -52,6 +52,7 @@
 | [1927-sum-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |

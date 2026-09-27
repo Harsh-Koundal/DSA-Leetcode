@@ -32,6 +32,7 @@
 | [0066-plus-one](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -500,6 +501,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -594,6 +596,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

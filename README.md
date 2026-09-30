@@ -177,6 +177,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2418-sort-the-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -242,6 +243,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2418-sort-the-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -295,6 +297,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2418-sort-the-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -399,6 +402,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

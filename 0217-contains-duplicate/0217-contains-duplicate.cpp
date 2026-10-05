@@ -1,11 +1,18 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-       unordered_set<int> seen;
+        unordered_map<int,int> freq;
 
-       for(int num : nums){
-        if(!seen.insert(num).second) return true;
-       }
-       return false;
+        for(int x : nums){
+            freq[x]++;
+        }
+
+        for(auto it : freq){
+            if(it.second >= 2){
+                return true;
+            }
+        }
+
+        return false;
     }
 };

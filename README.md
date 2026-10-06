@@ -273,6 +273,7 @@
 | [0038-count-and-say](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -343,6 +344,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |

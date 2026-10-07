@@ -93,6 +93,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0027-remove-element) |
@@ -383,6 +385,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |

@@ -125,6 +125,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -564,6 +565,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |

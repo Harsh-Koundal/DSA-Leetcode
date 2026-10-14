@@ -1,7 +1,6 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        if(num==1 && sum==1) return "1";
         if(num==1 && sum >= 10) return "";
 
         string  score = "";
@@ -20,7 +19,7 @@ public:
             remScore = remScore - digit;
         }
         if(remScore > 0) return "";
-        
+
         return score;
     }
 };

@@ -104,6 +104,7 @@
 | [0041-first-missing-positive](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -223,6 +224,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -275,6 +277,7 @@
 | [0020-valid-parentheses](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0125-valid-palindrome) |
@@ -389,6 +392,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harsh-Koundal/DSA-Leetcode/tree/master/0169-majority-element) |

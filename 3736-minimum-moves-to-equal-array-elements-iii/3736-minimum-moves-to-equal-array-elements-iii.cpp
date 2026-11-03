@@ -1,20 +1,13 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+        int maxEle = *max_element(nums.begin(),nums.end());
+        int steps = 0;
 
-        int count = 0;
-
-        int maxEle = nums[nums.size()-1];
-        int i = 0;
-        while(nums[i] < maxEle){
-            nums[i]++;
-            if(nums[i] == maxEle){
-                i++;
-            }
-            count++;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]<maxEle) steps += maxEle - nums[i];
         }
 
-        return count;
+        return steps;
     }
 };
